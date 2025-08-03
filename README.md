@@ -49,7 +49,7 @@ python main.py
 
 ## Author
 
-[Your Name]
+Shivam Ramola
 
 ## License
 
